@@ -1,0 +1,4 @@
+# Referenced at D:\Star.Master\development\workspace\mobiles\react_native\sam_dazzle_date\projects\fe-repo-master\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:56
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Star.Master\development\workspace\mobiles\react_native\sam_dazzle_date\projects\fe-repo-master\android\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:56
+-keep class com.pys.dazzleddate.MainApplication { <init>(); }
