@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289099129817",
+    "firebase_url": "https://dz-chat-app.firebaseio.com",
+    "project_id": "dz-chat-app",
+    "storage_bucket": "dz-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289099129817:android:6063767d9fded42f",
+        "android_client_info": {
+          "package_name": "com.pys.dazzleddate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289099129817-7qhn3r56s9rc2o2fg8ck8e7g1umbtopp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIXXE9pqjjHl2K_Fn__z9V7WirLyMwlOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289099129817-7qhn3r56s9rc2o2fg8ck8e7g1umbtopp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

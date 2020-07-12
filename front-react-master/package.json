@@ -1,0 +1,47 @@
+{
+  "name": "DazzledDate",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "^1.0.0",
+    "@react-native-community/async-storage": "^1.5.0",
+    "firebase": "^6.4.0",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "react-native-camera": "^2.10.2",
+    "react-native-device-info": "^2.3.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-fcm": "^16.2.4",
+    "react-native-firebase": "^5.5.4",
+    "react-native-flash-message": "^0.1.13",
+    "react-native-fs": "^2.13.3",
+    "react-native-geolocation-service": "^3.0.0",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-gifted-chat": "^0.9.11",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-material-menu": "^0.6.6",
+    "react-native-simple-store": "^2.0.0",
+    "react-native-smart-corner-label": "^1.1.2",
+    "react-native-video": "^4.4.2",
+    "react-native-wheel-picker": "^1.2.0",
+    "react-navigation": "^2.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/runtime": "7.4.5",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3",
+    "reactotron-react-native": "^3.6.5"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
